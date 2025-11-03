@@ -1,5 +1,3 @@
-# Interview-Questions
-
 # 📚 Interview Questions & Solutions  
 **By [Om Jadhav](https://github.com/Omjadhav13)**  
 
@@ -27,6 +25,18 @@ Recruiters and hiring managers can quickly gauge:
   - Problem Solving & Optimization  
   - System Design (Basic Concepts)  
 - **Tools:** Git, GitHub, Visual Studio, VS Code  
+
+---
+
+
+
+## 📂 Current Questions
+
+| # | Problem | Description | Concepts | Difficulty |
+|---|----------|--------------|-----------|-------------|
+| 1 | **MissingNumber.cs** | Finds the missing number in a sequence of consecutive integers using mathematical or XOR logic. | Arrays, Math, Bitwise, Looping | 🟢 Easy |
+| 2 | **RemoveDuplicate.cs** | Removes duplicate elements from an array or list while maintaining order. | Arrays, HashSet, Data Structures | 🟢 Easy |
+| 3 | **MaximumSubarraySum.cs** *(Kadane’s Algorithm)* | Finds the contiguous subarray with the maximum sum using **Kadane’s Algorithm** in linear time complexity. | Arrays, Dynamic Programming, Optimization | 🟡 Medium |
 
 ---
 
